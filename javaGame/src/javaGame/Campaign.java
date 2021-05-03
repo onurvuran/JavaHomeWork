@@ -6,3 +6,5 @@ public interface Campaign {
 	public void update();
 
 }
+
+
